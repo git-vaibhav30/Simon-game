@@ -97,6 +97,8 @@ function startOver() {
 // var userClickedPattern = [];
 
 
+
+
 // var started = false;
 
 // var level = 0;
