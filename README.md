@@ -1,6 +1,5 @@
 # Simon Game Project
 
-
 DESCRIPTION:
 The Simon Game is a classic memory-based game where players need to remember a sequence of coloured blocks and replicate it to progress. This project is a web-based implementation of the Simon Game using HTML, CSS, and JavaScript. The game presents a series of colored boxes that flashup up in a specific order, and the player's objective is to mimic that sequence.
 
