@@ -78,4 +78,3 @@ function startOver() {
   started = false;
 }
 
-
